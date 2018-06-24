@@ -1,0 +1,66 @@
+section#right{
+	width: 750px;
+	float: right;
+	margin-top: 20px;
+}
+/*상품 구매정보*/
+
+section#right #summary h3{
+	font-size:16px;
+	padding-bottom: 8px;
+	border-bottom:solid 1px #444444;
+	}
+
+section#right summary h3 span{
+	color #80a727;
+}
+
+section#right #summary1{
+	float: left;
+	margin-top: 20px;
+}
+
+section#right #summary1 .buttons{
+	text-align: center;
+	margin-top: 10px;
+}
+
+section #right #summary2{
+	width:390px;
+	float:right;
+	margin-top: 20px;
+	padding-right: 30px: 
+}
+
+section #right #summary2.item{
+	margin:20px 0 0 20px;
+	padding-bottom:10px;
+	border-bottom: solid 1px #cccccc;
+}
+section #right #summary2.col1{
+	width: 100px;
+	float: left;
+}
+
+section #right #summary2.col2{
+	width: 200px;
+	float: left;
+	text-decoration: none;
+}
+
+section#right #summary2.size{
+	margin:20px 0 0 20px;
+	padding-bottom: 10px;
+	border-bottom:solid 1px #cccccc;
+	text-decoration: none;
+}
+
+section#right #summary2.size li{
+	margin:5px 0;
+	text-decoration: none;
+}
+
+section#right #summary2.button li{
+	display: inline;
+	text-decoration: none;
+}
